@@ -1,8 +1,15 @@
 body {
-
+    width: 960px;
+    height: 1250px;
+    display: flex;
+    background-color: #D9D9D9;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    
 }
 
 а {
+    text-decoration: none;
 
 }
 
@@ -16,4 +23,33 @@ ul, ol {
 
 h1,h2,h3,h4,h5,h6,p {
 
+}
+
+.mainpage {
+    width: 890px;
+    height: 1186px;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 23px;
+    margin-top: 41px;
+    background-color: #B3E5B3;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+}
+.contact-me-box {
+}
+.hero {
+}
+.fast-development {
+}
+.low {
+}
+.know-how-to-solve {
+}
+.many-payment-methods {
+}
+.footer-1 {
+}
+.footer-2 {
 }
